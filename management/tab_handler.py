@@ -6,5 +6,5 @@ def calculate_tab(table):
     for t in table:
         product = get_product_by_id(t['_id'])
         subtotal += product['price'] * t['amount']
-        Formatted_text = {'subtotal': '$' + str(round(subtotal, 2))}
-    return Formatted_text
+        formatted_text = {'subtotal': '$' + str(round(subtotal, 2))}
+    return formatted_text
