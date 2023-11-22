@@ -1,0 +1,12 @@
+[
+  "tests/tarefas/tarefa_1/test_get_product_by_id.py::TestGetProductById::test_can_get_product_by_id",
+  "tests/tarefas/tarefa_1/test_get_product_by_id.py::TestGetProductById::test_get_product_by_id_with_non_existing_id",
+  "tests/tarefas/tarefa_1/test_get_product_by_type.py::TestGetProductByType::test_can_get_product_by_type",
+  "tests/tarefas/tarefa_1/test_get_product_by_type.py::TestGetProductByType::test_get_product_by_type_with_non_existing_type",
+  "tests/tarefas/tarefa_2/test_add_product.py::TestAddProduct::test_add_product_with_empty_menu",
+  "tests/tarefas/tarefa_2/test_add_product.py::TestAddProduct::test_can_add_product",
+  "tests/tarefas/tarefa_2/test_calculate_tab.py::TestCalculateTab::test_calculate_tab_success",
+  "tests/tarefas/tarefa_3/test_get_product_by_id_raise_error.py::TestGetProductByIdRaiseError::test_get_product_by_id_raises_type_error",
+  "tests/tarefas/tarefa_3/test_get_product_by_type_raise_error.py::TestGetProductByTypeRaiseError::test_get_product_by_type_raises_type_error",
+  "tests/tarefas/tarefa_3/test_menu_report.py::TestMenuReport::test_menu_report_success"
+]
